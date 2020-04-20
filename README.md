@@ -21,6 +21,10 @@ Used the Citi Bike Trip Data, a bike rental business in New York City, as a star
   
   - The combination of the larger population growth and the increased local spend per capita in Des Moines make it a great location for a bike rental business.
   
+  Link to Tableau Story:
+  
+  https://public.tableau.com/profile/julie.al.huneidi#!/vizhome/DesMoinesAnalysis-GoodPlaceforBikeRentalBusiness/DesMoines-GoodPlaceForABikeRentalBusiness?publish=yes
+  
   Full Report:
   
   ![alt text](https://github.com/Al-Huneidi/bikesharing/blob/master/citibike_analysis.md)
@@ -30,12 +34,21 @@ Used the Citi Bike Trip Data, a bike rental business in New York City, as a star
   Resources:
   
   201908-citibike-tripdata.csv
+  
   fastcompany.com
+  
   census.gov
+  
   iowaeconomicdevelopment.com
+  
   iowa-demographics.com
+  
   www.nyc.gov
+  
   onenyc.cityofnewyork.us
+  
   dmampo.org
+  
   ia_mcdonalds.csv
+  
   ny_mcdonalds.csv

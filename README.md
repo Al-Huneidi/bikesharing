@@ -4,4 +4,4 @@ Created a dashboard with the visualizations of each.
 
 Dashboard:
 
-![alt text](
+![alt text](https://github.com/Al-Huneidi/bikesharing/blob/master/dashboard_screenshot/Dashboard.png)

@@ -20,3 +20,22 @@ Used the Citi Bike Trip Data, a bike rental business in New York City, as a star
   - Last, I researched the cost of doing business in the two cities.  I found the cost of doing business in Des Moines is lower than in New York City.  
   
   - The combination of the larger population growth and the increased local spend per capita in Des Moines make it a great location for a bike rental business.
+  
+  Full Report:
+  
+  ![alt text](https://github.com/Al-Huneidi/bikesharing/blob/master/citibike_analysis.md)
+  
+  
+  
+  Resources:
+  
+  201908-citibike-tripdata.csv
+  fastcompany.com
+  census.gov
+  iowaeconomicdevelopment.com
+  iowa-demographics.com
+  www.nyc.gov
+  onenyc.cityofnewyork.us
+  dmampo.org
+  ia_mcdonalds.csv
+  ny_mcdonalds.csv
